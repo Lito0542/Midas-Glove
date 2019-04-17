@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 1757b1f7dbc0b1846a6430274aebd6f9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: diamond.000
+    100004: diamond.001
+    100006: diamond.002
+    100008: diamond.003
+    100010: diamond.004
+    100012: diamond.006
+    100014: fingerbase.000.L
+    100016: fingerbase.000.R
+    100018: fingerbase.001.L
+    100020: fingerbase.001.R
+    100022: fingerbase.002.L
+    100024: fingerbase.002.R
+    100026: fingerbase.003.L
+    100028: fingerbase.003.R
+    100030: fingerbase.004.L
+    100032: fingerbase.004.R
+    100034: fingermid.000.L
+    100036: fingermid.000.R
+    100038: fingermid.001.L
+    100040: fingermid.001.R
+    100042: fingermid.002.L
+    100044: fingermid.002.R
+    100046: fingermid.003.L
+    100048: fingermid.003.R
+    100050: fingermid.004.L
+    100052: fingermid.004.R
+    100054: fingertip.000.L
+    100056: fingertip.000.L_end
+    100058: fingertip.000.R
+    100060: fingertip.000.R_end
+    100062: fingertip.001.L
+    100064: fingertip.001.L_end
+    100066: fingertip.001.R
+    100068: fingertip.001.R_end
+    100070: fingertip.002.L
+    100072: fingertip.002.L_end
+    100074: fingertip.002.R
+    100076: fingertip.002.R_end
+    100078: fingertip.003.L
+    100080: fingertip.003.L_end
+    100082: fingertip.003.R
+    100084: fingertip.003.R_end
+    100086: fingertip.004.L
+    100088: fingertip.004.L_end
+    100090: fingertip.004.R
+    100092: fingertip.004.R_end
+    100094: hand.L
+    100096: human bones
+    100098: knuckles.R
+    100100: lightbulb.000
+    100102: lightbulb.001
+    100104: lightbulb.003
+    100106: lightbulb.005
+    100108: lightbulb.006
+    100110: palm.L
+    100112: palm.R
+    100114: robot bones.FK
+    100116: //RootNode
+    100118: robot hand.R
+    100120: wrist.L
+    100122: wrist.R
+    400000: Camera
+    400002: diamond.000
+    400004: diamond.001
+    400006: diamond.002
+    400008: diamond.003
+    400010: diamond.004
+    400012: diamond.006
+    400014: fingerbase.000.L
+    400016: fingerbase.000.R
+    400018: fingerbase.001.L
+    400020: fingerbase.001.R
+    400022: fingerbase.002.L
+    400024: fingerbase.002.R
+    400026: fingerbase.003.L
+    400028: fingerbase.003.R
+    400030: fingerbase.004.L
+    400032: fingerbase.004.R
+    400034: fingermid.000.L
+    400036: fingermid.000.R
+    400038: fingermid.001.L
+    400040: fingermid.001.R
+    400042: fingermid.002.L
+    400044: fingermid.002.R
+    400046: fingermid.003.L
+    400048: fingermid.003.R
+    400050: fingermid.004.L
+    400052: fingermid.004.R
+    400054: fingertip.000.L
+    400056: fingertip.000.L_end
+    400058: fingertip.000.R
+    400060: fingertip.000.R_end
+    400062: fingertip.001.L
+    400064: fingertip.001.L_end
+    400066: fingertip.001.R
+    400068: fingertip.001.R_end
+    400070: fingertip.002.L
+    400072: fingertip.002.L_end
+    400074: fingertip.002.R
+    400076: fingertip.002.R_end
+    400078: fingertip.003.L
+    400080: fingertip.003.L_end
+    400082: fingertip.003.R
+    400084: fingertip.003.R_end
+    400086: fingertip.004.L
+    400088: fingertip.004.L_end
+    400090: fingertip.004.R
+    400092: fingertip.004.R_end
+    400094: hand.L
+    400096: human bones
+    400098: knuckles.R
+    400100: lightbulb.000
+    400102: lightbulb.001
+    400104: lightbulb.003
+    400106: lightbulb.005
+    400108: lightbulb.006
+    400110: palm.L
+    400112: palm.R
+    400114: robot bones.FK
+    400116: //RootNode
+    400118: robot hand.R
+    400120: wrist.L
+    400122: wrist.R
+    2000000: Camera
+    2100000: Navy
+    2100002: silver
+    2100004: BLUE
+    2100006: rubber
+    2100008: hand light
+    2100010: Black
+    2100012: white
+    2100014: red gem
+    2100016: sapphire.004
+    2100018: sapphire.003
+    2100020: sapphire.002
+    2100022: white gem
+    2100024: lightbulb silver
+    2100026: light
+    2100028: glass
+    2100030: lightbulb tip
+    2100032: Material
+    2100034: skin
+    2100036: sapphire
+    2300000: diamond.000
+    2300002: diamond.001
+    2300004: diamond.002
+    2300006: diamond.003
+    2300008: diamond.004
+    2300010: diamond.006
+    2300012: lightbulb.000
+    2300014: lightbulb.001
+    2300016: lightbulb.003
+    2300018: lightbulb.005
+    2300020: lightbulb.006
+    3300000: diamond.000
+    3300002: diamond.001
+    3300004: diamond.002
+    3300006: diamond.003
+    3300008: diamond.004
+    3300010: diamond.006
+    3300012: lightbulb.000
+    3300014: lightbulb.001
+    3300016: lightbulb.003
+    3300018: lightbulb.005
+    3300020: lightbulb.006
+    4300000: robot hand.R
+    4300002: diamond.006
+    4300004: diamond.004
+    4300006: diamond.003
+    4300008: diamond.002
+    4300010: diamond.001
+    4300012: lightbulb.006
+    4300014: lightbulb.005
+    4300016: lightbulb.003
+    4300018: lightbulb.001
+    4300020: hand.L
+    4300022: lightbulb.000
+    4300024: diamond.000
+    9500000: //RootNode
+    13700000: hand.L
+    13700002: robot hand.R
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

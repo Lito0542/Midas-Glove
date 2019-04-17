@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidasReload", "Assembly-CSharp.csproj", "{0C647C9F-5FD7-E451-7216-7409F47EBAC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidasReload", "Assembly-CSharp-Editor.csproj", "{180AB706-8739-7124-8AAD-48F3DD686E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C647C9F-5FD7-E451-7216-7409F47EBAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C647C9F-5FD7-E451-7216-7409F47EBAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C647C9F-5FD7-E451-7216-7409F47EBAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C647C9F-5FD7-E451-7216-7409F47EBAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180AB706-8739-7124-8AAD-48F3DD686E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180AB706-8739-7124-8AAD-48F3DD686E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180AB706-8739-7124-8AAD-48F3DD686E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180AB706-8739-7124-8AAD-48F3DD686E15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
