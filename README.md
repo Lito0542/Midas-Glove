@@ -6,8 +6,9 @@
 ### 게임 소개
 * 장갑형 VR 컨트롤러를 테스트해 볼 수 있는 프로그램입니다.
 ### 게임 화면
-* **게임의 메인화면입니다. 인게임에서의 닉네임을 입력할 수 있습니다.**
-+ **개발시 난관**
-   + 아두이노 기기와 따로 시리얼 통신을 해야할 필요가 있었음
-      + SerialManager클래스를 생성하여 시리얼 통신을 담당하도록 하였습니다.
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56102123-ac62c300-5f65-11e9-8b03-c39e0627c82c.png></img>
+<img width="70%" src=https://user-images.githubusercontent.com/40797534/56408296-c0ccf580-62ae-11e9-9db8-69ef4db6005d.png></img>
+<img width="70%" src=https://user-images.githubusercontent.com/40797534/56408297-c1658c00-62ae-11e9-90a3-34742a5328de.png></img>
+<img width="70%" src=https://user-images.githubusercontent.com/40797534/56408298-c1fe2280-62ae-11e9-8412-31db9776ecac.png></img>
+<img width="70%" src=https://user-images.githubusercontent.com/40797534/56408299-c32f4f80-62ae-11e9-84b0-649af616c352.png></img>
+<img width="70%" src=https://user-images.githubusercontent.com/40797534/56408300-c3c7e600-62ae-11e9-93a9-6df54fd34a0e.png></img>
+<img width="70%" src=https://user-images.githubusercontent.com/40797534/56408303-c4f91300-62ae-11e9-830f-1cb1cac88208.png></img>
