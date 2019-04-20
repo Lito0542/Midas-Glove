@@ -5,6 +5,10 @@
 ## 프로젝트 소개
 ### 게임 소개
 * 장갑형 VR 컨트롤러를 테스트해 볼 수 있는 프로그램입니다.
+
+### 시연 영상
+* [https://youtu.be/S6dplnHuFzQ](https://youtu.be/S6dplnHuFzQ) <br>
+
 ### 게임 화면
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56408296-c0ccf580-62ae-11e9-9db8-69ef4db6005d.png></img>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56408297-c1658c00-62ae-11e9-90a3-34742a5328de.png></img>
